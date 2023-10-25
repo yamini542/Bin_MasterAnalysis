@@ -6,7 +6,7 @@
 # In[ ]:
 
 
-pip install dash
+#pip install dash
 
 
 # In[ ]:
