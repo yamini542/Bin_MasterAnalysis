@@ -2,5 +2,5 @@ dash
 pandas
 plotly
 matplotlib
-
+gunicorn
 
